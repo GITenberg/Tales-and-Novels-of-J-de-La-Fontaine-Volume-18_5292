@@ -1,5 +1,5 @@
 _repo: Tales-and-Novels-of-J-de-La-Fontaine-Volume-18_5292
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'French poetry -- Translations into English'
 - !lcsh 'Fables, French -- Translations into English'
 - !lcc 'PQ'
+- GITenberg
 tableOfContents: The Case of Conscience -- The Devil of Pope-fig Island -- Feronde.
 title: Tales and Novels of J. de La Fontaine — Volume 18
 url: http://www.gutenberg.org/ebooks/5292
